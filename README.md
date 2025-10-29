@@ -1,5 +1,6 @@
 # H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts
 
+### Overall Architecture
 ![Model Framework](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/overview%20of%20H3M-SSMoEs.png)
 
 ---
