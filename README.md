@@ -1,4 +1,4 @@
-# Multi-modal Hypergraph Neural Networks with LLM Reasoning and Mixture-of-Experts for Stock Prediction
+# H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts
 
 ![Model Framework](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/WWW%20model%20overview.png)
 
