@@ -1,6 +1,6 @@
 # H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts
 
-![Model Framework](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/WWW%20model%20overview.png)
+![Model Framework](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/overview%20of%20H3M-SSMoEs.png)
 
 ---
 
@@ -63,6 +63,6 @@ python backtesting.py
 
 Below are the backtesting performance charts of our model on all datasets:
 
-![Backtesting_result_DJIA](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_DJIA.png)
-![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_NASDAQ100.png)
-![Backtesting_result_S&P100](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_SP100.png)
+![Backtesting_result_DJIA](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_DJIA.png)
+![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_NASDAQ100.png)
+![Backtesting_result_S&P100](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_SP100.png)
