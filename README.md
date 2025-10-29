@@ -13,8 +13,6 @@ All datasets, including quantitative features, news embeddings, and timestamp em
 
 The corresponding model weights are hosted on MEGA. 👉 [Model Weights Download Link](https://mega.nz/folder/HMdSySAQ#jtR8Y5BdtmtCr3XhrxYnQQ)
 
-(Both datasets and model weights have been anonymized.)
-
 Included datasets and weights:
 
 * **DJIA**
@@ -68,16 +66,3 @@ Below are the backtesting performance charts of our model on all datasets:
 ![Backtesting_result_DJIA](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_DJIA.png)
 ![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_NASDAQ100.png)
 ![Backtesting_result_S&P100](https://github.com/PeilinTime/Multi-modal-Hypergraph-Neural-Networks-with-LLM-Reasoning-and-Mixture-of-Experts-for-Stock-Predictio/blob/main/figure/Backtesting_result_SP100.png)
-
----
-
-### 📄 License
-
-All Rights Reserved – For Review Only
-
-This code is provided exclusively for the purpose of anonymous review of our paper submitted to WWW 2026.
-
-You are permitted to view, compile, and run this code.
-You may not copy, distribute, or use it for any other purposes.
-
-© 2025 Anonymous Authors
