@@ -14,7 +14,7 @@ H3M-SSMoEs is a hypergraph-based multimodal framework combining LLM reasoning an
 
 
 
-### 📦 Datasets & Model Weights
+## Datasets & Model Weights 📦
 
 All datasets, including quantitative features, news embeddings, and timestamp embeddings, are available via Google Drive. 👉 [Datasets Download Link](https://drive.google.com/drive/folders/1kJobHYib_WSwQHHU958sh0gKRgyA-Lu7?usp=sharing)
 
@@ -28,13 +28,13 @@ Included datasets and weights:
 
 ---
 
-### 🚀 How to Run Our Model
+## How to Run Our Model 🚀
 
-#### 1. Download this repository
+### 1. Download this repository
 
 Download or clone this code repository to your local machine.
 
-#### 2. For Training and Prediction
+### 2. For Training and Prediction
 
 Download one of the datasets from the Google Drive link above:
 
@@ -49,7 +49,7 @@ Run the following command to train the model and make predictions (including tra
 python run.py
 ```
 
-#### 3. For Backtesting
+### 3. For Backtesting
 
 Download the datasets **and** the corresponding model weights from the two links above:
 
@@ -66,7 +66,7 @@ python backtesting.py
 
 ---
 
-### 📈 Backtesting Results
+## Backtesting Results 📈
 
 Below are the backtesting performance charts of our model on all datasets:
 
