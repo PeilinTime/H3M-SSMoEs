@@ -3,6 +3,9 @@
 The repo is the official implementation for the paper: [H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts](https://arxiv.org/abs/2510.25091).
 .
 
+## Introduction 📖
+H3M-SSMoEs is a hypergraph-based multimodal framework combining LLM reasoning and style-structured experts for stock prediction.
+
 ### Overall Architecture
 ![Model Framework](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/overview%20of%20H3M-SSMoEs.png)
 
@@ -70,3 +73,18 @@ Below are the backtesting performance charts of our model on all datasets:
 ![Backtesting_result_DJIA](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_DJIA.png)
 ![Backtesting_result_NASDAQ100](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_NASDAQ100.png)
 ![Backtesting_result_S&P100](https://github.com/PeilinTime/H3M-SSMoEs/blob/main/figure/Backtesting_result_SP100.png)
+
+## Citation
+We would appreciate it if you could cite the following paper if you found the repository useful for your work:
+
+```bash
+@misc{tan2025h3mssmoeshypergraphbasedmultimodallearning,
+      title={H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts}, 
+      author={Peilin Tan and Liang Xie and Churan Zhi and Dian Tu and Chuanqi Shi},
+      year={2025},
+      eprint={2510.25091},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.25091}, 
+}
+```
